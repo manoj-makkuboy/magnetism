@@ -635,7 +635,8 @@ div.dh-person-header-title {
 
 .dh-tooltip {
     position:			absolute;
-    display:            none;
+    visibility:         hidden;
+    display:            block;
 	z-index:			2;    
 }
 
