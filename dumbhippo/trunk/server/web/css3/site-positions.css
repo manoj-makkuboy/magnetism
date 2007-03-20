@@ -757,3 +757,8 @@ div.dh-person-header-title {
 .dh-tip-tip {
 	padding-left:	5px;
 }
+
+.dh-label {
+    position: relative;
+    bottom:   1px;
+}
