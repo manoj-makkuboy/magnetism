@@ -564,21 +564,23 @@ div.dh-person-header-title {
 	margin-bottom:	5px;
 }
 
-#dhLearnMoreNextStep {
+#dhDownload {
     margin-top:      5px;
     margin-bottom:   10px;
 }
 
-#dhLearnMoreNextStep td {
+#dhDownload td {
     padding-right:   10px; 
 }
 
-#dhLearnMoreButtons td { 
+#dhDownloadButtons td { 
     padding-right:   0px; 
 }
-.dh-download-product {
-	vertical-align:	 -6px;
+
+.dh-download-button {
+	vertical-align:	 -7px;
 }
+
 .dh-download-details {
     vertical-align:  top;
     border-left:     2px solid #999999;
@@ -587,13 +589,13 @@ div.dh-person-header-title {
     
 }
 
-.dh-learnmore-summary {
-    margin-bottom:  5px;
-}
-
-.dh-learnmore-subheading {
+.dh-download-subheading {
 	margin-top:		8px;
 	margin-botton:	5px;
+}
+
+.dh-download-summary {
+    margin-bottom:  5px;
 }
 
 .dh-learnmore-illustration {
