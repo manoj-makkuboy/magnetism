@@ -761,6 +761,14 @@ div.dh-person-header-title {
 	margin-left:		0px;
 }
 
+.dh-account-question-buttons {
+    margin-top:         5px;
+}
+
+.dh-account-question-buttons input {
+    margin-right:       5px;
+}
+
 #dhDownloadMessageClose {
 	position:			absolute;
 	top:				2px;
